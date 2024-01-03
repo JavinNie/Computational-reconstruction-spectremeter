@@ -1,0 +1,8 @@
+evaluate a filter matrix by reconstructing a seris of spetral signals
+
+MSE——fidelity
+
+variable:
+1、spectral signal's peak position, peak width, peak amplitude;
+2、SNR——noise resist capbility
+3、Gain——dynamic range
