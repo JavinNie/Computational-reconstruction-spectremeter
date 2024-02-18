@@ -1,3 +1,6 @@
+based on OMP
+by grx
+
 evaluate a filter matrix by reconstructing a seris of spetral signals
 
 MSE——fidelity
